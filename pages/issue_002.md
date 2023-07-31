@@ -61,7 +61,7 @@ Below is the plot of the temperature readings recorded during this experiment:
 
 ![day1_temp](https://drive.google.com/uc?id=1Yrz0iVZgJ77V6d8EfTqXKIKUfNxmwEOc)
 
-The enclosure that the router sits inside is tightly locked behind a pair of doors. I additionally turned the LEDs, as well as the router on, in order to replicate as closely as possible the conditions that were present during the actual milling process. I turned the router off before running the actual `hello_world` job.
+Normally, the enclosure that the router sits inside is tightly locked behind a pair of doors. For the tests, I additionally turned the LEDs, as well as the router on, in order to replicate as closely as possible the conditions that were present during the actual milling process. I turned the router off before running the actual `hello_world` job.
 
 ### First & second tests
 
@@ -91,7 +91,7 @@ Here are the results of the first and the second `hello_world` respectively:
 
 ### Some observations
 
-Note that the second test reveals that on top of a violent departure from the predetermined toolpath there appears to have been present a constant drift in the y-plane.
+Note that the second test reveals that on top of a violent departure from the predetermined toolpath there appears to have been present a constant drift in the y-axis.
 
 Coming back to the video of the violent failing point in the second test:
 
