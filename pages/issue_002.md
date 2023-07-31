@@ -105,7 +105,7 @@ This led me to examine the y-axis belts on my machine, which revealed that the r
 
 ### Fix
 
-I tighted both belts (right one more than the left one) so that both are approximatly under the same tension.
+I tightened both belts (right one more than the left one) so that both are approximatly under the same tension.
 
 Here they are now:
 
@@ -113,11 +113,11 @@ Here they are now:
 
 ### Repeat of the test
 
-I re-run the testing protocol and it completed successfully. Here is the result (I must have set the z-axis zero a little too low, which caused the marker pressing against the paper a little too hard; hence, the less clear linestroke):
+I re-ran the testing protocol and it completed successfully. Here is the result (I must have set the z-axis zero a little too low, which caused the marker pressing against the paper a little too hard; hence, the less clear linestroke):
 
 ![test_three_results](https://drive.google.com/uc?id=1af4ekClENjxJAgyJxujv84TvJF4XJzuj)
 
-Additionally, the tempterature readings throughout the experiment are given below (this thrid test took place the following day, on the afternoon; hence the apparent jump back in time, when this plot is compared to the previous one):
+Additionally, the tempterature readings throughout the experiment are given below (this third test took place the following day; hence the apparent jump back in time, when this plot is compared to the previous one):
 
 ![day2_temp](https://drive.google.com/uc?id=1fmfHuMDDq2f08WFsJJ9py9rjY5TehBVU)
 
