@@ -99,7 +99,7 @@ Coming back to the video of the violent failing point in the second test:
 
 and focusing on the y-motors one can see that something is not right with them. They appear to be the culprits, yanking on the x-axis gantry.
 
-This led me to examine the y-axis belts on my machine, which revealed that the right one is looser than the left one and even the left one seemed as if it could have benefited from a minor tightening:
+This led me to examine the y-axis belts on my machine, which revealed that the right one was looser than the left one and even the left one seemed as if it could have benefited from a minor tightening:
 
 <iframe src="https://drive.google.com/file/d/1RptdtQsOBjRGPsaUMciYRRiqOYOHyA2h/preview" width="640" height="480" allow="autoplay"></iframe>
 
