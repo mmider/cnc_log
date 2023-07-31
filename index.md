@@ -17,4 +17,4 @@ All logs concern [Shapeoko 4 XL](https://shop.carbide3d.com/products/shapeoko4?v
   - **Status**: <span style="color:green">Resolved<sup>\*</sup></span>
 - [Issue 002](pages/issue_002.html):
   - **Description**: machine jerks during milling and swerves from the toolpath
-  - **Status**: <span style="color:aquamarine">Provisionally resolved, pending further verification</span>
+  - **Status**: <span style="color:darkcyan">Provisionally resolved, pending further verification</span>
