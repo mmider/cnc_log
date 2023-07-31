@@ -20,7 +20,7 @@ About ~50mins into a job the machine unexpectedly jerks in the x-y plane and beg
 
 ## The underlying issue
 
-The two y-axis belts were stretched under unequal tension. The right one was significantly looser. Additionally, even the left one seemed like it could have benefited from a moderate tightening. After a certain amount of time, the temperature inside the enclosure would increase to the point where the slight expansion of the machine's components would reach a tipping point and the y-axis motors would fail to work as intended and they would start violently yanking on the x-axis gantry.
+The two y-axis belts were stretched under unequal tension. The right one was significantly looser. Additionally, even the left one seemed like it could have benefited from a minor tightening. After a certain amount of time, the temperature inside the enclosure would increase to the point where the slight expansion of the machine's components would reach a tipping point and the y-axis motors would fail to work as intended and they would start violently yanking on the x-axis gantry.
 
 ## Solution
 
@@ -30,7 +30,7 @@ Both y-axis belts have been tighted in such a way that they are now under approx
 
 ### The protocol
 
-The protocol prescriped by Carbide3D customer support comprised of the following:
+The protocol prescriped by the Carbide3D customer support comprised of the following:
 
 1. Turn the machine on.
 2. Disable the `BitSetter`.
@@ -43,7 +43,7 @@ The protocol prescriped by Carbide3D customer support comprised of the following
 
 ### Slight modification
 
-Instead of checking the temperature only at one time point I wanted to monitor it coninuously. To this end I attached 3 [DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/DS18B20.pdf) temperature sensors:
+Instead of checking the temperature only at one time point I wanted to monitor it continuously. To this end, I attached 3 [DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/DS18B20.pdf) temperature sensors:
 
 - one to the left y-axis,
 - one to the x-axis (on its right side) and
@@ -59,7 +59,7 @@ Pictures below demonstrate this.
 
 Below is the plot of the temperature readings recorded during this experiment:
 
-![day1_temp](https://drive.google.com/file/d/1Yrz0iVZgJ77V6d8EfTqXKIKUfNxmwEOc/view?usp=drive_link)
+![day1_temp](https://drive.google.com/uc?id=1Yrz0iVZgJ77V6d8EfTqXKIKUfNxmwEOc)
 
 The enclosure that the router sits inside is tightly locked behind a pair of doors. I additionally turned the LEDs, as well as the router on, in order to replicate as closely as possible the conditions that were present during the actual milling process. I turned the router off before running the actual `hello_world` job.
 
@@ -97,7 +97,7 @@ Coming back to the video of the violent failing point in the second test:
 
 <iframe src="https://drive.google.com/file/d/1d4ENmxRd_B_HR0jd95IaGf51bLDE56WK/preview" width="640" height="480" allow="autoplay"></iframe>
 
-and focusing on the y-motors one can see that something is not right with them. As they appear to be the culprits, yanking on the x-axis gantry.
+and focusing on the y-motors one can see that something is not right with them. They appear to be the culprits, yanking on the x-axis gantry.
 
 This led me to examine the y-axis belts on my machine, which revealed that the right one is looser than the left one and even the left one seemed as if it could have benefited from a minor tightening:
 
@@ -117,7 +117,7 @@ I re-run the testing protocol and it completed successfully. Here is the result 
 
 ![test_three_results](https://drive.google.com/uc?id=1af4ekClENjxJAgyJxujv84TvJF4XJzuj)
 
-Additionally, the tempterature readings throughout the experiment are given below (this thrid test took place the following day, on the afternoon; hence the apparent jump back in time):
+Additionally, the tempterature readings throughout the experiment are given below (this thrid test took place the following day, on the afternoon; hence the apparent jump back in time, when this plot is compared to the previous one):
 
 ![day2_temp](https://drive.google.com/uc?id=1fmfHuMDDq2f08WFsJJ9py9rjY5TehBVU)
 
