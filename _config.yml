@@ -16,7 +16,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: cnc log
+title: Troubleshooting log for my CNC machine
 author:
   name: Marcin Mider
   email: marcin.mider@gmail.com

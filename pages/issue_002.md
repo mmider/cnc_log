@@ -6,7 +6,7 @@ description: How to test your GitHub Pages site locally.
 
 # Issue 002
 
-[Go back to Home Page](https://mmider.github.io/cnc_log) | [Previous issue](pages/issue_001.html)
+[Go back to Home Page](https://mmider.github.io/cnc_log) | [Previous issue](issue_001.html)
 
 ## Description
 

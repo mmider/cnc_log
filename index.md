@@ -1,11 +1,8 @@
 ---
 layout: page
-title: cnc log
-tagline: cnc machine troubleshooting log
+title: Troubleshooting log for my CNC machine
 description: A log for issues that I've encountered during operation of my CNC machine (Shapeoko 4 XL)
 ---
-
-# Troubleshooting log for my CNC machine
 
 The purpose of this GithubPage is to document the troubleshooting process of the issues that I've encountered while operating my CNC machine.
 

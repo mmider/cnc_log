@@ -6,7 +6,7 @@ description: x-axis proximity sensor fails to register collision
 
 # Issue 001
 
-[Go back to Home Page](https://mmider.github.io/cnc_log) | [Next issue](pages/issue_002.html)
+[Go back to Home Page](https://mmider.github.io/cnc_log) | [Next issue](issue_002.html)
 
 [!WARNING]
 This issue has been resolved prior to my decision to start documenting problems I encounter when working with my CNC machine; hence, no detailed logs, pictures nor videos exist.
