@@ -115,6 +115,6 @@ I re-run the testing protocol and it completed successfully. Here is the result 
 
 Additionally, the tempterature readings throughout the experiment are given below (it took place the afternoon of the following day; hence the apparent jump back in time):
 
-![day2_temp](https://drive.google.com/file/d/1fmfHuMDDq2f08WFsJJ9py9rjY5TehBVU/view?usp=drive_link)
+![day2_temp](https://drive.google.com/uc?id=1fmfHuMDDq2f08WFsJJ9py9rjY5TehBVU)
 
 The jerking appears to be resolved.
